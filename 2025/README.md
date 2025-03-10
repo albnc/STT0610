@@ -16,7 +16,7 @@ Informações da Disciplina
 ---
 ## CONTEÚDO
 
-- [Programação](0_programacao\README.md)
+- [Programação](0_programacao/README.md)
 
 
 
