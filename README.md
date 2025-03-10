@@ -5,7 +5,7 @@
 *Logistics and Transportation*
 
 Docente Responsável
-: [prof. André Luiz Cunha](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+: [prof. André Luiz Cunha](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)    
 : [prof. Lucas Brandão](http://lattes.cnpq.br/3026929259853023)
 
 
