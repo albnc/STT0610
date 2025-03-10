@@ -15,19 +15,7 @@ Informações da Disciplina
 
 ---
 
-## Objetivos da disciplina
 
-Conceituar a Logística e apresentar técnicas de Pesquisa Operacional utilizadas na distribuição física e operações de transporte.
-
-## Programa Resumido
-
-1. Conceitos, importância, estrutura e tendências; 
-2. Características dos sistemas de transportes; 
-3. O problema do transporte e o problema do transbordo; 
-4. Modelo de Filas; 
-5. Roteirização de veículos; 
-6. Localização de depósitos e de armazéns. 
-7. Tomada de decisão.
 
 
 ---
