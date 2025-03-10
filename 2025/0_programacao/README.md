@@ -2,7 +2,7 @@
 
 ## Programação
 
----
+### Março
 **10/03**
 : Apresentação do curso - Introdução
 
@@ -15,7 +15,7 @@
 **31/03**
 : Clientes e Fornecedores
 
----
+### Abril
 **07/04**
 : Canais de distribuição
 
@@ -25,7 +25,7 @@
 **21/04**
 : TIRADENTES (FERIADO)
 
----
+### Maio
 **05/05**
 : ENTREGA 1
 
@@ -38,7 +38,7 @@
 **26/05**
 : Localização de facilidades
 
----
+### Junho
 **02/06**
 : Roteirização e programação de veículos
 
@@ -54,6 +54,6 @@
 **30/06**
 : ENTREGA 2
 
----
+### Julho
 **01/07**
 : PROVA SUBSTITUTIVA
