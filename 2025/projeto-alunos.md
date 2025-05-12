@@ -1,5 +1,5 @@
 ---
-numbersections: true
+number-sections: true
 ---
 
 # Danilo
